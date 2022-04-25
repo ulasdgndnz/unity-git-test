@@ -14,11 +14,11 @@ public class TestScript : MonoBehaviour
         print("Cümleten As");
         print("Yeter lan As");
         print("SONNN");
-        
-        
-        
-        
-        print("değişiklik berke")
-            print("az oyun yapak")
+
+
+
+
+        print("değişiklik berke");
+        print("az oyun yapak");
     }
 }
