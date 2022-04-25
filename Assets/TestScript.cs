@@ -12,7 +12,11 @@ public class TestScript : MonoBehaviour
         print("Ben Ulaş!");
         print("Cümleten Sa");
         print("Cümleten As");
+        print("Cümleten As");
+        print("Cümleten As");
+        print("Cümleten As");
         print("Yeter lan As");
+
         print("SONNN");
 
 
@@ -20,5 +24,9 @@ public class TestScript : MonoBehaviour
 
         print("değişiklik berke");
         print("az oyun yapak");
+
+
+
+        print("değişiklik berke");
     }
 }
