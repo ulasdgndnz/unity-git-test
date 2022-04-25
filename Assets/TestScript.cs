@@ -12,6 +12,8 @@ public class TestScript : MonoBehaviour
         print("Ben Ulaş!");
         print("Cümleten Sa");
         print("Cümleten As");
+        print("Yeter lan As");
+        
         
         print("değişiklik berke")
     }
