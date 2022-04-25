@@ -9,5 +9,7 @@ public class TestScript : MonoBehaviour
     {
         print("Hello World!");
         print("Ben Berke!");
+        print("Ben Ulaş!");
+
     }
 }
