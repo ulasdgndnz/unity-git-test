@@ -13,6 +13,6 @@ public class TestScript : MonoBehaviour
         print("Cümleten Sa");
         print("Cümleten As");
         
-
+        print("değişiklik berke")
     }
 }
