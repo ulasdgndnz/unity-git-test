@@ -13,6 +13,9 @@ public class TestScript : MonoBehaviour
         print("Cümleten Sa");
         print("Cümleten As");
         print("Yeter lan As");
+        print("SONNN");
+        
+        
         
         
         print("değişiklik berke")
