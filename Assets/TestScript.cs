@@ -16,5 +16,6 @@ public class TestScript : MonoBehaviour
         
         
         print("değişiklik berke")
+            print("az oyun yapak")
     }
 }
