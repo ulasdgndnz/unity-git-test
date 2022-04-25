@@ -11,6 +11,8 @@ public class TestScript : MonoBehaviour
         print("Ben Berke!");
         print("Ben Ulaş!");
         print("Cümleten Sa");
+        print("Cümleten As");
+        
 
     }
 }
